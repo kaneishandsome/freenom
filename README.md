@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
-kane freenom 续上
+kane freenom There is only one God, and his name is Death. And there is only one thing we say to Death:“Not today.”
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
 [![Scrutinizer Code Quality](https://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
